@@ -1,2 +1,2 @@
 # sprint-11-OilyGiant-WellPlacement
-Este proyecto aplica Machine Learning para predecir reservas de crudo y optimizar la selección de 200 nuevos pozos en OilyGiant. Se analizan datos de tres regiones para identificar las ubicaciones más rentables, evaluando beneficios y riesgos con bootstrapping.
+Este proyecto utiliza Machine Learning para optimizar la selección de ubicaciones para nuevos pozos petroleros en OilyGiant. Se analizan datos de tres regiones para predecir el volumen de reservas y seleccionar los sitios más rentables. Además, se evalúan los beneficios y riesgos mediante la técnica de bootstrapping, asegurando decisiones estratégicas basadas en datos.
